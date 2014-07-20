@@ -146,6 +146,7 @@ data ChartType
   | GoogleOMeter          -- ^ Google-o-meter
   | Formula               -- ^ Formula Chart
   | QRCode                -- ^ QR Codes
+  | Timeline              -- ^ Timeline
     deriving Show
 
 -- | Title of the chart
