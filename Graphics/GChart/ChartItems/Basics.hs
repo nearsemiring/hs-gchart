@@ -35,3 +35,4 @@ instance ChartItem ChartType where
                                     GoogleOMeter         -> "gom"
                                     Formula              -> "tx"
                                     QRCode               -> "qr"
+                                    Timeline             -> "tl"
